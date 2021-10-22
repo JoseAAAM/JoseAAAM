@@ -5,8 +5,11 @@
 - 🌱 &nbsp; I’m currently focused on learn ReactJS
 
 ## GitHub status
-![JoseAAAM's stats](https://github-readme-stats.vercel.app/api?username=JoseAAAM&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true&include_all_commits=true&count_private=true)
-![JoseAAAM's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAAAM&hide_border=true&layout=compact&langs_count=16&theme=tokyonight)
+<div align="left">
+  <a href="https://github.com/JoseAAAM">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseAAAM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAAAM&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ## Contact
 <a href="https://github.com/JoseAAAM" title="GitHub">
