@@ -1,6 +1,6 @@
 ### Hi there, I am José Augusto Machoski
 
-- 🎓 &nbsp; Student of **Analysis and Systems of Development** at <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>
+- 🎓 &nbsp; Student of **Analysis and Systems Development** at <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>
 - 💼 &nbsp; Working as **Developer Intern** at <a href="https://alexandria.solar/">Alexandria</a>
 - 🌱 &nbsp; I’m currently focused on learn ReactJS
 
