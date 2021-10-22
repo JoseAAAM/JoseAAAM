@@ -25,7 +25,7 @@
 <br />
 
 # Skills
-## Languages, Frameworks and others
+## Languages and Frameworks
 <p align="left">
   <img width="38" height="38" src="./public/images/javascript.png" alt="Javascript" title="Javascript" />
   <img width="38" height="38" src="./public/images/typescript.png" alt="Typescript" title="Typescript" />
@@ -33,16 +33,16 @@
   <img width="38" height="38" src="./public/images/react-native.png" alt="React Native" title="React Native" />
   <img width="38" height="38" src="./public/images/html.png" alt="HTML" title="HTML" />
   <img width="38" height="38" src="./public/images/css.png" alt="CSS" title="CSS" />
-  <img width="38" height="38" src="./public/images/styled-components.png" alt="Styled Components" title="Styled Components" />
-  <img width="38" height="38" src="./public/images/expo.png" alt="Expo" title="Expo" />
-  <img width="38" height="38" src="./public/images/terminal.png" alt="Terminal" title="Terminal" />
 </p>
 
 ## Tools
 <p align="left">
   <img width="38" height="38" src="./public/images/vscode.png" alt="Visual Studio Code" title="Visual Studio Code" />
+  <img width="38" height="38" src="./public/images/expo.png" alt="Expo" title="Expo" />
   <img width="38" height="38" src="./public/images/insomnia.png" alt="Insomnia" title="Insomnia" />
   <img width="38" height="38" src="./public/images/postman.png" alt="Postman" title="Postman" />
+  <img width="38" height="38" src="./public/images/terminal.png" alt="Terminal" title="Terminal" />
+  <img width="38" height="38" src="./public/images/styled-components.png" alt="Styled Components" title="Styled Components" />
 </p>
 
 ## DevOps
