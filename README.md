@@ -1,7 +1,7 @@
 ### Hi there, I am José Augusto Machoski
 
 - 🎓 &nbsp; Student of **Analysis and Systems Development** at <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>
-- 💼 &nbsp; Working as **Front-End Developer** at <a href="https://alexandria.solar/">Alexandria</a>
+- 💼 &nbsp; Working as **Front-End & Mobile Developer** at <a href="https://alexandria.solar/">Alexandria</a>
 - 🌱 &nbsp; I’m currently focused on learning Next.js
 
 ## GitHub status
